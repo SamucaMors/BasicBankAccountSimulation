@@ -13,19 +13,3 @@ suficiente para realizar o saque e/ou pagar a taxa.
 Você deve fazer um programa que realize o cadastro de uma conta, dando opção para que seja ou não
 informado o valor de depósito inicial. Em seguida, realizar um depósito e depois um saque, sempre
 mostrando os dados da conta após cada operação.
-
-#### Exemplo: ####
-```
-Enter account number: 8532
-Enter account holder: Alex Green
-Is there na initial deposit (y/n)? y
-Enter initial deposit value: 500.00
-Account data:
-Account 8532, Holder: Alex Green, Balance: $ 500.00
-Enter a deposit value: 200.00
-Updated account data:
-Account 8532, Holder: Alex Green, Balance: $ 700.00
-Enter a withdraw value: 300.00
-Updated account data:
-Account 8532, Holder: Alex Green, Balance: $ 395.00
-```
